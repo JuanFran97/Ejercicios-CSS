@@ -1,0 +1,17 @@
+h1 {
+    border-bottom: 2px solid;    
+    border-color: blue;
+}
+h2 {
+    border-style: solid;
+    border-color: grey;
+}
+#ul1 {
+    border-top: 2px dotted;
+    border-bottom: 2px dotted;
+    border-color: rgb(141, 0, 0);
+}
+#ul2 {
+    border-style: dashed;
+    border-color: green;
+}
