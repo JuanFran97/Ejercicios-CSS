@@ -1,0 +1,15 @@
+#p1 {
+    color: white;
+    background-color: rgb(78, 78, 78);
+    opacity: 0.5;
+}
+#p2 {
+    color: blue;
+    background-color: rgb(0, 255, 21);
+    opacity: 0.5;
+}
+#p3 {
+    color: rgb(0, 12, 63);
+    background-color: rgb(238, 255, 0);
+    opacity: 0.5;
+}
