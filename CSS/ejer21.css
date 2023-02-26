@@ -1,0 +1,9 @@
+#p1 {
+    position: relative;
+    left: 80px;
+    top: 40px;
+    background-color: grey;
+}
+p {
+    border-style: solid;
+}
