@@ -1,0 +1,7 @@
+body {
+    background-image: url(../oveja.png);
+    background-repeat: repeat;
+}
+#red {
+    color: red;
+}
