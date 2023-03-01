@@ -1,6 +1,7 @@
 div {
+    background-color: gray;
     border: 2px solid #CCC;
-    padding: 150px 150px 150px 150px;
+    padding: 50px 50px 50px 50px;
     width: 300px;
     top: 50px;
     left: 50px;
