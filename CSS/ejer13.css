@@ -1,0 +1,36 @@
+#p1 {
+    border: solid 5px red;
+}
+#p2 {
+    border: solid 3px blue;
+}
+#p3 {
+    border: dotted 3px yellow;
+}
+#p4 {
+    border: dotted 6px;
+    border-top-color: red;
+    border-left-color: yellow;
+    border-bottom-color: blue;
+    border-right-color: green;
+}
+#p5 {
+    border: solid black 5px;
+    margin: 7px;
+}
+#divp5 {
+    border: solid black 5px;
+}
+#p6 {
+    border: solid black 3px;
+    margin: 1px;
+}
+#divp6 {
+    border: solid black 3px;
+}
+#p7 {
+    border-top: solid black 1px;
+    border-bottom: solid black 4px;
+    border-left: solid black 15px;
+    border-right: solid black 10px;
+}

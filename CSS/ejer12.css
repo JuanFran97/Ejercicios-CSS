@@ -1,0 +1,30 @@
+div {
+    border: solid 2px;
+    width: 500px;
+    height: 400px;
+    background-image: url(../ciudadgrande.jpg);
+    background-size: auto;
+    background-repeat: no-repeat;
+}
+h2 {
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
+p {
+    color: red;
+    border-style: dashed solid dashed solid;
+    border-color: red;
+    width: 400px;
+    margin: 50px;
+    position: relative;
+    top: 100px;
+    left: 25px;
+}
+#diff {
+    border: solid 2px;
+    width: 500px;
+    height: 400px;
+    background-image: url(../ciudadgrande.jpg);
+    background-size: 300px 150px;
+}
