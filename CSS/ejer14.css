@@ -1,0 +1,9 @@
+h1 {
+    margin: auto;
+    width: 300px;
+    background-color: cyan;
+}
+p {
+    padding: 50px;
+    background-color: cyan;
+}

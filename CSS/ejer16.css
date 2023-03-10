@@ -1,0 +1,31 @@
+#div1 {
+    background-color: rgb(186, 176, 176);
+    margin-left: 500px;
+    width: 300px;
+    text-align: center;
+}
+#p1{
+    background-color: rgb(186, 186, 186);
+    margin: 0px;
+    font-style: italic;
+    font-family: Arial;
+    font-size: 10px;
+}
+#p2{
+    background-color: rgb(244, 244, 116);
+    margin: 0px;
+    font-variant: small-caps;
+    text-decoration: underline;
+}
+#p3{
+    background-color: rgb(251, 96, 96);
+    margin: 0px;
+    font-style: italic;
+    font-family: 'Courier New';
+
+}
+#p4{
+    background-color: rgb(164, 164, 164);
+    margin: 0px;
+    font-size: 5px;
+}
